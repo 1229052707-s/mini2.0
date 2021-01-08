@@ -1,0 +1,19 @@
+.box {
+    width: 88%;
+    margin-left: 200px;
+    border-radius: 10px;
+    height: 800px;
+    margin-top: 110px;
+}
+
+.el-dialog {
+    width: 25%;
+    position: relative;
+    margin: 0 auto 50px;
+    border-radius: 2px;
+    /* display: block; */
+    /* -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .3); */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+    /* -webkit-box-sizing: border-box; */
+    box-sizing: border-box;
+}

@@ -1,0 +1,126 @@
+.card {
+    height: 937px;
+    width: 100%;
+    position: relative;
+}
+
+.smallBox {
+    position: absolute;
+    height: 359px;
+    width: 340px;
+    top: 30%;
+    left: 40%;
+    background-color: #dbdde438;
+}
+
+.login-Info {
+    margin-top: 30px;
+}
+
+.login-Info p {
+    height: 0.2rem;
+}
+
+.login-info-msg {
+    width: 86%;
+    margin: 0 auto;
+    padding-left: 2%;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+.login-info-msg input {
+    height: 35px;
+    width: 95%;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.login-Ban {
+    display: flex;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 25px;
+}
+
+.login-Ban span {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.login-Ban span img {
+    width: 100%;
+}
+
+.login-Ban p {
+    color: white;
+}
+
+.login-Bot .login_btn {
+    width: 150px;
+    height: 40px;
+    outline: none;
+    background-color: #089bdf;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.login_btn {
+    width: 120px;
+    display: block;
+    margin: 20px auto;
+    margin-top: 0;
+}
+
+h1,
+h2 {
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    color: #42b983;
+}
+
+.forget {
+    display: block;
+    margin-top: -10px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+}
+
+.forget:hover {
+    color: #409eff;
+}
+
+.xym4 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 51.5%;
+    left: 80%;
+}
+
+.xym4 img {
+    width: 100%;
+}
+
+input::placeholder {
+    color: darkseagreen;
+}

@@ -1,0 +1,95 @@
+.synopsis {
+    width: 88%;
+    margin-left: 200px;
+    margin-top: 110px;
+}
+
+.guan {
+    /* width: 90%; */
+    height: 60px;
+    background-color: #4390dd;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: -0.5rem 0.3rem 0.5rem rgb(167 162 162 / 30%);
+}
+
+.xin {
+    /* width: 90%; */
+    margin: 70px auto;
+}
+
+.xin p {
+    background-color: #eef1f6;
+    color: #282c34;
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+.xu {
+    width: 90%;
+    margin: 70px auto;
+}
+
+.xu p {
+    height: 80px;
+    background-color: #4390dd;
+    color: white;
+    margin: 0 auto;
+    line-height: 80px;
+    font-size: 26px;
+    font-weight: 400;
+    padding-left: 50px;
+}
+
+.xin .xinO {
+    width: 100%;
+    /* height: 200px; */
+    box-shadow: -0.5rem 0.3rem 0.5rem rgb(167 162 162 / 30%);
+}
+
+.xinO .neiR {
+    width: 90%;
+    background-color: white;
+    color: #282c34;
+    line-height: 30px;
+    font-size: 16px;
+    margin: 0 auto;
+    font-weight: normal;
+    padding-left: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.xu .xuO {
+    width: 100%;
+    height: 130px;
+    box-shadow: -0.5rem 0.3rem 0.5rem rgb(167 162 162 / 30%);
+}
+
+.phone {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: normal;
+    padding-left: 60px;
+    font-size: 16px;
+}
+
+.gauge {
+    width: 500px;
+    height: 500px;
+}
+
+.one {
+    width: 100%;
+    /* margin: 70px auto; */
+    /* display: flex; */
+    flex-wrap: wrap;
+    box-shadow: -0.5rem 0.3rem 0.5rem rgb(167 162 162 / 30%);
+}
